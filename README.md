@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Gogoi</h1>
-<h3 align="center">A passionate frontend developer from India , if i want to know my Experience I have around 2 years of Experience</h3>
+<h3 align="center">A passionate frontend developer from India , if you want to know my Experience I have around 2 years of Experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parl582&label=Profile%20views&color=0e75b6&style=flat" alt="parl582" /> </p>
 
